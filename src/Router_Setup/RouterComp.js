@@ -11,7 +11,8 @@ export default function RouterComp() {
       <Route path="/" element={<Main_page/>}/>
       <Route path="About" element={<About/>}/>
       <Route path="cart" element={<Cart/>}/>
-      <Route path="Orders" element={<Orders/>}>
+      <Route path="Orders" element={<Orders/>}></Route>
+      <Route path="Orders:ParamsData" element={<Orders/>}>
           <Route path="About" element={<About/>}/>
           <Route path=""/>
           <Route path=""/>

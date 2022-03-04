@@ -1,14 +1,17 @@
 import React from 'react';
-import {Link} from 'react-router-dom';
+import {useNavigate} from 'react-router-dom';
 import {connect} from 'react-redux'
 import {actionCreatorForBuyCake} from '../Redux/Cake/ActionCreator'
 const  Main_page=(props) =>{
+
+  const navigate = useNavigate()
+
   return (
       <>
       <h1>Welcome</h1>
       <p>number of cakes {props.numberOfCakes}</p>
       <button onClick={props.buyCake}>Buy cake</button>
-        
+      <button onClick={()=>navigate('/cart')}>nav to cart</button>
       </>
   );
 }

@@ -7,11 +7,12 @@ import Counterer2Comp from './HOC/counterer2Comp';
 
 const App =() =>{
   return (
-    <Counterer2Comp/>
-      
-      /*<Provider store={store}>
-        <Main_page/>
-      </Provider>*/
+      <BrowserRouter>
+        <Provider store={store}>
+        <RouterComp/>
+      </Provider>
+        
+      </BrowserRouter>
   );
 }
 

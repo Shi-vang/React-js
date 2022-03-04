@@ -1,9 +1,14 @@
 import React from 'react';
-import {Link, Outlet} from 'react-router-dom'
-function Orders() {
+import {Link, Outlet, useParams} from 'react-router-dom'
+function Orders(props) {
+
+  const data = useParams()
+  const PassedData = data.ParamsData;
+
   return (
     <>
     <h1>Orders</h1>
+    <p>{PassedData}</p>
     <ul>
         <li>product 1</li>
         <li>product 2</li>

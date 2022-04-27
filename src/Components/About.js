@@ -4,23 +4,9 @@ export default function About() {
   return (
     <>
         <h1>About</h1>
-        <p>Zomato was founded as Foodiebay in 2008, and was renamed Zomato on 18 January 2010 as Zomato Media Pvt. Ltd.[11][12] In 2011, it expanded across India to Delhi NCR, Mumbai, Bangalore, Chennai, Pune and Ahmedabad.[13] In 2012, it expanded operations internationally in several countries, including the United Arab Emirates, Sri Lanka,[14] Qatar,[15] the United Kingdom,[16] the Philippines,[15] and South Africa.[17] In 2013, expanded to in New Zealand,[18] Turkey, Brazil and Indonesia, with website and apps available in Turkish, Portuguese, Indonesian and English languages.[19] In April 2014, it launched in Portugal, which was followed by launches in Canada, Lebanon and Ireland in 2015.[20][21][22][23]
-
-            In 2015, the firm acquired Seattle-based food portal Urbanspoon, which led to the firm's entry into the United States and Australia.[24] This U.S.-expansion brought Zomato into direct competition with similar models such as Yelp and Foursquare.[24]
-
-            With the introduction of .xxx domains in 2011, Zomato also launched zomato.xxx, a site dedicated to food porn.[25] In May 2012, it launched a print version of the website named "Citibank Zomato Restaurant Guide," in collaboration with Citibank, but it has since been discontinued.[26]
-
-            In February 2017, the firm announced plans to launch Zomato Infrastructure services, a service to help restaurants expand their presence without incurring any fixed costs.[27][28] In September 2017, Zomato claimed it had "turned profitable" in all 24 countries where it operated and introduced a "zero-commission model" for partner restaurants.[29] Towards the end of 2017, Zomato stopped accepting updates from its active users by not utilizing moderators to verify and make updates. Users of the app reported issues with new features to pay for orders.[citation needed]
-
-            Zomato reduced its losses by 34% to ₹389 crore[clarification needed] for the financial year 2016–17, from ₹590.1 crore[clarification needed] in the previous year 2015–16.[30][31] Zomato became a unicorn in February 2018.[32]
+        <p>Zomato was s by 34% to ₹389 crore[clarification needed] for the financial year 2016–17, from ₹590.1 crore[clarification needed] in the previous year 2015–16.[30][31] Zomato became a unicorn in February 2018.[32]
 
             In September 2019, the firm fired almost 10% of its workforce (540 people) tending to back-end activities like customer service, merchant and delivery partner support functions.[33] In April 2020, due to rising demand for online groceries amid the COVID-19 pandemic, the firm launched its grocery delivery services named Zomato Market in 80+ cities across India.[34]
-
-            In April 2020, Zomato introduced contactless dining to get ready for a post-lockdown world, by eliminating the use of high-touch elements such as the menu, ordering, and bill payments through bar codes or the app while the staff will wear masks.[35]
-
-            In May 2020, Zomato further laid off 520 employees due to the COVID-19 pandemic.[36] Despite the fact that demand for services delivering food from restaurants and takeaways surged, Zomato's given reasoning for needing cuts is that coronavirus will be followed by an economic downturn, which could hit orders.[37]
-
-            In August 2020, Zomato drew praise for introducing a period leave policy, allowing female employees to take up to 10 days time off per year if they are unable to work due to menstrual cycle health effects. The policy applies to transgender employees as well.[38]
 
             On 23 July 2021, Zomato went public, opening its Initial public offering at a price band of Rs 72-76 per share.[39]
 

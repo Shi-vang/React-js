@@ -6,7 +6,7 @@ export default function About() {
         <h1>About</h1>
         <p>Zomato was s by 34% to ₹389 crore[clarification needed] for the financial year 2016–17, from ₹590.1 crore[clarification needed] in the previous year 2015–16.[30][31] Zomato became a unicorn in February 2018.[32]
 
-            In September 2019, the firm fired almost 10% of its workforce (540 people) tending to back-end activities like customer service, merchant and delivery partner support functions.[33] In April 2020, due to rising demand for online groceries amid the COVID-19 pandemic, the firm launched its grocery delivery services named Zomato Market in 80+ cities across India.[34]
+            19, the firm fired almost 10% of its workforce (540 people) tending to back-end activities like customer service, merchant and delivery partner support functions.[33] In April 2020, due to rising demand for online groceries amid the COVID-19 pandemic, the firm launched its grocery delivery services named Zomato Market in 80+ cities across India.[34]
 
             On 23 July 2021, Zomato went public, opening its Initial public offering at a price band of Rs 72-76 per share.[39]
 
